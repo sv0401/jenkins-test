@@ -10,8 +10,8 @@ public class TestJenkinsApplication {
 
         SpringApplication.run(TestJenkinsApplication.class, args);
 
-    
-        System.out.println("test");
+
+        System.out.println("test2222");
     }
 
 }
